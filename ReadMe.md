@@ -11,5 +11,5 @@ IAI-Awards 2015 : https://www.iai-awards.org/bernard-chabot-brice-sommacal-accen
 Motivation
 -
 This methodology incarnate a common core for both :
-   - Tradionnal developpement
-   - Ontology-Driven developement
+- Tradionnal developpement
+- Ontology-Driven developement
