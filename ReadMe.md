@@ -1,4 +1,4 @@
-Business Application Specificication Methodology
+Business Application Specification Methodology
 ==
 Best practices for designing a Business Application
 
