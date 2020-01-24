@@ -1,4 +1,4 @@
-Ontology Design Methodology
+Business Application Specificication Methodology
 ==
 Best practices for designing a Business Application
 
