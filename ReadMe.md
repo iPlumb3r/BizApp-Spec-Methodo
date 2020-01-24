@@ -1,6 +1,6 @@
 Business Application Specification Methodology
 ==
-Best practices for designing a Business Application
+Based on a set of best practices for designing a Business Application
 
 Mantra
 -
