@@ -1,25 +1,24 @@
-Roles à impliquer
+Rôles à impliquer
 ==
-Les rô
 
-Tableau :
+Les rôles requis pour cette méthodologie sont les suivants : 
 <table>
     <thead>
         <tr>
-            <th>H1</th>
-            <th>H2</th>
-            <th>H3</th>
-            <th>H4</th>
-            <th>H5</th>            
+            <th>ID</th>
+            <th>Label Préféré</th>
+            <th>Label Alternatif</th>
+            <th>Description</th>
+            <th>Commentaire</th>            
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A4</td>
-            <td>A5</td>
+            <td>BusinessExpert</td>
+            <td>Référent Métier</td>
+            <td>Expert Métier</td>
+            <td>Personne ayant une connaissance claire, complète et profonde de la problématique métier que l’on cherche à décrire et capable de faire émerger les concepts métiers qui structurent le domaine de connaissance sous-jacent à cette problématique.</td>
+            <td>Rôle de Maîtrise d’Ouvrage (MOA)</td>
         </tr>
         <tr>
             <td>B1</td>
