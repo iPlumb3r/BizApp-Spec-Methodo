@@ -21,8 +21,8 @@ The 2 articles below allow a better understanding of the principle of an ontolog
 ... independently of " __The HOW__ ? "(= ontological paradigm, reasoning technology, computer language, ...)
 
 In order to do so, this methodology defines : 
-* Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/0_Role/ReadMe_EN.md">roles</a> to involves
-* Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activity/eadMe_EN.md">activities</a> to realizes
-* Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverable/eadMe_EN.md">deliverables</a> to produces
+* <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/0_Role/ReadMe_EN.md">roles</a> to involves
+* <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activity/eadMe_EN.md">activities</a> to realizes
+* <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverable/eadMe_EN.md">deliverables</a> to produces
 
 Translated with www.DeepL.com/Translator (free version)
