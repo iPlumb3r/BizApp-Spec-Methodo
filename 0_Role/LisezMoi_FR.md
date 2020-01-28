@@ -21,18 +21,18 @@ Les rôles requis pour cette méthodologie sont les suivants :
             <td>Rôle de Maîtrise d’Ouvrage (MOA)</td>
         </tr>
         <tr>
-            <td>B1</td>
-            <td>B2</td>
-            <td>B3</td>
-            <td>B4</td>
-            <td>B5</td>
+            <td>KnowledgeArchitect</td>
+            <td>Référent Modélisation</td>
+            <td>Architecte des connaissances</td>
+            <td>Personne en charge d'accompagner le #BusinessExpert# pour identifier, décrire et mettre en relation ces concepts métiers et de veiller à ce que les livrables produits respectent les bonnes pratiques métiers de modélisation (approche onto-terminologique, principes de “separation of concerns” : séparation sujet/objet, classification 5WH, …).</td>
+            <td>Rôle d’Assistance à Maîtrise d’Ouvrage (AMOA)</td>
         </tr>
         <tr>
-            <td>C1</td>
-            <td>C2</td>
-            <td>C3</td>
-            <td>C4</td>
-            <td>C5</td>
+            <td>Ontologist</td>
+            <td>Référent Ontologie</td>
+            <td>Ontologue</td>
+            <td>Personne capable de dériver le modèle sémantique des concepts métiers “théorique” (élaboré conjointement par le #KnowledgeArchitect# et le #BusinessExpert#) en une ontologie OWL “opérationnelle” respectant à la fois les exigences métiers et les bonnes pratiques syntaxiques, fonctionnelles et techniques.</td>
+            <td>Rôle de Maîtrise d’Oeuvre (MOE)</td>
         </tr>
     </tbody>
 </table>
