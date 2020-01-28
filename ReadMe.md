@@ -19,5 +19,5 @@ Pour continuer en Français, c'est <a href="https://github.com/iPlumb3r/BizApp-S
 
 IAI Awards
 -
-The work associated to this methodology was award-winning at IAI-Awards 2015 :
+The work associated to this methodology was award-winning at IAI-Awards 2015 :   
 https://www.iai-awards.org/bernard-chabot-brice-sommacal-accenture-laureat-iai-awards-2015/
