@@ -10,32 +10,34 @@ Tableau :
         <tr>
             <th>Quoi ?</th>
             <th>Pourquoi ?</th>
-            <th>Comment ? (> Livrable)</th>
+            <th>Comment ? (=> Livrable)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Définir la finalité de l’application</td>
+            <td>Un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”
+All models are wrong , but some are useful (G. Box)</td>
+            <td>En listant les objectifs devant être atteints par le modèle métier
+(=> Carte des motivations</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td>Définir le périmètre métier de l’application informatique</td>
             <td>B2</td>
             <td>B3</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td>Identifier et définir les concepts métiers qui devront être manipulés par l’application informatique</td>
             <td>B2</td>
             <td>B3</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td>Mettre en relation les concepts métiers via des relations sémantiques (c-à-d “porteuse de sens”)</td>
             <td>B2</td>
             <td>B3</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td>Décrire les règles métiers</td>
             <td>B2</td>
             <td>B3</td>
         </tr>
