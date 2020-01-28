@@ -3,7 +3,7 @@ Biz-App Spec-Methodo
 
 Preamble
 -
-This __methodology__ embodies the common core of __good practices__ to be implemented upstream of the development of a business application, whatever the __development method__ of this application: 
+This __methodology__ incarnates the common core of __good practices__ to be implemented upstream of the development of a business application, whatever the __development method__ of this application: 
 * traditional
 * or "ontology-driven"
 
