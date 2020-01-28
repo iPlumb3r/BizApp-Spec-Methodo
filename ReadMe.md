@@ -17,7 +17,7 @@ Introduction
 To continue in English, it's <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Introduction_EN.md">here</a>.  
 Pour continuer en Français, c'est <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Introduction_FR.md">ici</a>.
 
-IAI Awards
+Reference
 -
 The work associated to this methodology was award-winning at IAI-Awards 2015 :   
 https://www.iai-awards.org/bernard-chabot-brice-sommacal-accenture-laureat-iai-awards-2015/
