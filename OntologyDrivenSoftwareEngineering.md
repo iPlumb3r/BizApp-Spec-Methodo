@@ -1,4 +1,4 @@
-Ontology-Driven Sofwtare Engineering
+Ontology-Driven Software Engineering
 ==
 Ontology Driven Software Enginnering is based on the MVC (Model-View-Controler) paradigm where :   
 * The "Model" is an Ontology
