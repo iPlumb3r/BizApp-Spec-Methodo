@@ -6,4 +6,4 @@ Ontology Driven Software Enginnering is based on the MVC (Model-View-Controler) 
 * The "View" is the User Interface (as usual)  
 
 In this context the business logic of the application is NOT implemented with "classical" code ...    
-... but it is - only - determined (deduced, inferred, ...) by the Ontology and the SWRL Rules
+... but it is - only - raisoned (logically determined, deduced, inferred, ...) form the Ontology and the SWRL Rules
