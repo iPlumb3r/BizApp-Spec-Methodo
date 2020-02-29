@@ -11,9 +11,13 @@ This __methodology__ incarnates the common core of __good practices__ to be impl
 
 References
 -
-The 2 articles below allow a better understanding of the principle of an ontological approach to develop an application:
+The articles below allow a better understanding of the principle of an ontological approach to develop an application:
+In English : 
+* <a href="https://www.linkedin.com/pulse/why-ontologies-so-valuable-business-bernard-chabot/">Why ontologies are so valuable for the business ?"</a>
+* <a href="https://www.linkedin.com/pulse/why-ontologies-so-valuable-business-bernard-chabot/">Who knows why ontologies are so hidden ?"</a>
+In French : 
 * <a href="https://www.linkedin.com/pulse/ontologies-pourquoi-quoi-comment-bernard-chabot/">Ontologies: Why?, What? & How?"</a>
-* <a href="https://www.linkedin.com/pulse/pourquoi-et-comment-mieux-s%C3%A9parer-m%C3%A9tier-bernard-chabot/?originalSubdomain=fr">Why and How - Better - Separate Business and IT?"</a>
+* <a href="https://www.linkedin.com/pulse/pourquoi-et-comment-mieux-s%C3%A9parer-m%C3%A9tier-bernard-chabot/">Why and How - Better - Separate Business and IT?"</a>
  
  General
  -
