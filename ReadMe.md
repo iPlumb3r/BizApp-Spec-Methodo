@@ -21,3 +21,8 @@ Reference
 -
 The work associated to this methodology was award-winning at IAI-Awards 2015 :   
 https://www.iai-awards.org/bernard-chabot-brice-sommacal-accenture-laureat-iai-awards-2015/
+
+Illustation
+==
+
+![EBR IdCard](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/Activities_2020-02-29.png)
