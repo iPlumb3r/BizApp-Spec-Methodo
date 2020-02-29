@@ -9,7 +9,7 @@ Business-Driven Ontologies for Ontology-Driven Businesses.
 Motivation
 -
 This methodology incarnate a common core of best practices for both :
-- A tradionnal developpement (where the Ontology will be an input for a robust technical specification)
+- A tradionnal developpement (where the Ontology will -just - be an input for a robust technical specification)
 - An ontology-Driven developement (where the Ontology will be a direct consumable for dedicated software components)
 
 Introduction
