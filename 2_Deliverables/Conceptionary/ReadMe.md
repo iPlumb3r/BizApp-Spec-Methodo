@@ -51,7 +51,6 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
         </tr>
     </tbody>
 </table>
-* ID (1-1)   
 
 __Important note__ :   
 Each entry of the conceptionary is NOT a #Term ...   
@@ -64,3 +63,27 @@ What's the point ?
 -
 A __conceptionary__ is like _"a stone in the middle of the river"_ is the process to built an __ontology__.   
 Less formal than an __ontology__, the __conceptionary__ let appears future formal relations - in a textual flavor - inside the description section.
+
+An example
+-
+An exemple of a Conceptionary coulb be see here
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Root</a> of the Conceptionary   
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the Concept identified as "#Agent"   
+=> You can see here than the "Description" of the Concept referes to others Concept(s) of the Conceptinary ...   
+... and you can navigate through those links in order to see the "Description" of targeted Concept(s) !
+
+
+__Note__ : GitHub is OK for publich the final version of an already built Conceptionary, but not for elaborating it !!!
+
+Which tool to use ?
+-
+
+Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manager, ...) are not very suitable for building a conceptionary, just because main requirements are : 
+   - Concepts can be linked easily
+   - Allow Collaboration
+   
+ 
+ Seems that the best tool which answer to both requirements is <a href="https://roamresearch.com/">Roam</a> 
+  
+ 
+ 
