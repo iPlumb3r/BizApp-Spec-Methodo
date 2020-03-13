@@ -53,15 +53,10 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
 </table>
 * ID (1-1)   
 
-And, for each language :
-* Prefered Label (1-1)
-* Alternative Label (0-*)
-* Description (0-1)
-* Comment (0-*) 
-
 __Important note__ :   
 Each entry of the conceptionary is NOT a #Term ...   
-... this is a #Concept
+... this is a #Concept   
+=> A Conceptionary is somewhere a "inverse Dictionary"
 
 Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
 
