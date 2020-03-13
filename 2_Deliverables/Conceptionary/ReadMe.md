@@ -47,7 +47,7 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
         <tr>
             <td>Example</td>
             <td>3-7</td>
-            <td>Some representativ instance of the concept</td>
+            <td>Some representative individuals/instances of the concept</td>
         </tr>
     </tbody>
 </table>
