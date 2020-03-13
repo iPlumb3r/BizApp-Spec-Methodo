@@ -5,6 +5,52 @@ What is it ?
 -
 A __conceptionary__ is a "flat" list of the __concepts__ related to a given __knowledge domain__ with some useful associated informations :
 
+<table>
+    <thead>
+        <tr>
+            <th>Conceptionary Entry</th>
+            <th>Card (Min-Max)</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID</td>
+            <td>1-1</td>
+            <td>Could be a number, an aleatory alpha-numeric chain or an EnglishCamelCase "word"</td>
+        </tr>
+          <tr>
+            <td>============</td>
+            <td>And For Each Language</td>
+            <td>============</td>
+        </tr>
+        <tr>
+            <td>Prefered Label</td>
+            <td>1-1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Alternative Label</td>
+            <td>0-N</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>1-1</td>
+            <td>The description must refers to others concepts (via the Concept ID) in order to prepare the work for building the future ontology</td>
+        </tr>
+        <tr>
+            <td>Comment</td>
+            <td>0-N</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Example</td>
+            <td>3-7</td>
+            <td>Some representativ instance of the concept</td>
+        </tr>
+    </tbody>
+</table>
 * ID (1-1)   
 
 And, for each language :
