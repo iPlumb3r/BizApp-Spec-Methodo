@@ -55,7 +55,7 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
 __Important note__ :   
 Each entry of the conceptionary is NOT a #Term ...   
 ... this is a #Concept   
-=> A Conceptionary is somewhere a "inverse Dictionary"
+> A Conceptionary is somewhere a "inverse Dictionary"
 
 Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
 
@@ -86,10 +86,11 @@ Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manage
  Seems that the best tool which answer to both requirements is <a href="https://roamresearch.com/">Roam</a> 
  (You need to create 1 Roam Note for each Concept => Do NOT describe several Concepts in the same Roam Note)
 
-Roam Note 1 :<a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Template</a>
-Roam Note 2 : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/S5u8LXV2A">Example</a>
+Template/Example : 
+* Roam Note 1 :<a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Template</a>   
+* Roam Note 2 : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/S5u8LXV2A">Example</a>  
 
-By creating new Roam Note, with the name of already used Concept, Roam will automatically propose to make a link ...
+> By creating new Roam Note, with the name of already used Concept, Roam will automatically propose to make a link ...
   
  
  
