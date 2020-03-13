@@ -15,7 +15,7 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
     </thead>
     <tbody>
         <tr>
-            <td>ID</td>
+            <td>Concept ID</td>
             <td>1-1</td>
             <td>Could be a number, an aleatory alpha-numeric chain or an EnglishCamelCase "word"</td>
         </tr>
