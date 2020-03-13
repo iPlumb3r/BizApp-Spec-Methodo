@@ -83,7 +83,7 @@ Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manage
    - Allow Collaboration
    
  
- Seems that the best tool which answer to both requirements is <a href="https://roamresearch.com/">Roam</a> 
+ Seems that the best tool which answer to both requirements is <a href="https://roamresearch.com/">Roam</a>    
  (You need to create 1 Roam Note for each Concept => Do NOT describe several Concepts in the same Roam Note)
 
 Template/Example : 
