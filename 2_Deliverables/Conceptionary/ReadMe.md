@@ -66,14 +66,14 @@ Less formal than an __ontology__, the __conceptionary__ let appears future forma
 
 An example
 -
-An exemple of a Conceptionary coulb be see here
+An exemple of a Conceptionary could be see here :
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Root</a> of the Conceptionary   
-* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the Concept identified as "#Agent"   
-=> You can see here than the "Description" of the Concept referes to others Concept(s) of the Conceptinary ...   
-... and you can navigate through those links in order to see the "Description" of targeted Concept(s) !
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the Concept identified as "@Agent"   
+=> You can see here than the "Description" of the Concept referes to others Concept(s) of the Conceptionary ...   
+... and you can navigate through those links in order to see the "Description" of the targeted Concept(s) !
 
+__Note__ : GitHub is OK for publich the final version of an already built Conceptionary, but not for building it !!!
 
-__Note__ : GitHub is OK for publich the final version of an already built Conceptionary, but not for elaborating it !!!
 
 Which tool to use ?
 -
@@ -84,6 +84,12 @@ Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manage
    
  
  Seems that the best tool which answer to both requirements is <a href="https://roamresearch.com/">Roam</a> 
+ (You need to create 1 Roam Note for each Concept => Do NOT describe several Concepts in the same Roam Note)
+
+Roam Note 1 :<a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Template</a>
+Roam Note 2 : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Example</a>
+
+By creating new Roam Note, with the name of already used Concept, Roam will automatically propose to make a link ...
   
  
  
