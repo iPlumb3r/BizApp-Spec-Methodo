@@ -37,19 +37,19 @@ Organization
         <tr>
             <td>3</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">UI-UX</a></td>
-            <td>Specification of the User Interface and any relevant inputs about the User eXperience</td>
+            <td>Specification of the User Interface and any relevant inputs about the User eXperience.</td>
             <td></td>
         </tr>
         <tr>
             <td>4</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Functions</a></td>
-            <td>Description of expected functional modes and/or detailed functionalities</td>
+            <td>Description of expected functional modes and/or detailed functionalities.</td>
             <td></td>
         </tr>
         <tr>
             <td>5</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Guide Lines</a></td>
-            <td>Description of the "high level" principles that should guide the design of the application</td>
+            <td>Description of the "high level" principles that should guide the design of the application.</td>
             <td></td>
         </tr>
         <tr>
@@ -61,25 +61,25 @@ Organization
         <tr>
             <td>7</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Implementations</a></td>
-            <td>Specificities related to the different technological targets of the application</td>
+            <td>Specificities related to the different technological targets of the application.</td>
             <td></td>
         </tr>
         <tr>
             <td>8</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">RoadMap</a></td>
-            <td>Identification of the different releases and their expected release date</td>
+            <td>Identification of the different releases and their expected release date.</td>
             <td></td>
         </tr>
         <tr>
             <td>9</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Documentation</a></td>
-            <td>User guide for each implementation of the application</td>
+            <td>User guide for each implementation of the application.</td>
             <td>e.g. How To Start ? ... </td>
         </tr>
         <tr>
             <td></td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">images</a></td>
-            <td>Files allowing to illustrate the wep page of the GitHub repository</td>
+            <td>Files allowing to illustrate the wep page of the GitHub repository.</td>
             <td></td>
         </tr>
     </tbody>
