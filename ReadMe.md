@@ -34,7 +34,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Domain</th>
-            <td>Knwoledge Engineering x Computeur Science</td>
+            <td>Knwoledge Engineering x Computer Science</td>
             <td>N/A</td>
         </tr>
         <tr>
