@@ -75,7 +75,7 @@ This methodology incarnate a common core of best practices for both :
 
 Mantra
 -
-> Business-Driven Ontologies for Ontology-Driven Businesses. 
+> Business-Driven Models for Model-Driven Businesses. 
 
 Introduction
 -
