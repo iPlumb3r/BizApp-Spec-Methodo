@@ -1,4 +1,4 @@
-Template for GitHub Folder Hiearchy
+Template for GitHub Folder Hierarchy
 ==
 
 GitHub repositories related application specification are organized like this :
