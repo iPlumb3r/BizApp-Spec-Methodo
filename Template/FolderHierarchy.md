@@ -48,19 +48,37 @@ Organization
         </tr>
         <tr>
             <td>5</td>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Ontologies</a></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Guide Lines</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>6</td>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Implementations</a></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Ontologies</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>7</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Implementations</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">RoadMap</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Documentation</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">images</a></td>
             <td></td>
             <td></td>
         </tr>
