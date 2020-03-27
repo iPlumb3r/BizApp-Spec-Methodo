@@ -4,7 +4,7 @@ Based on a set of best practices for designing a Business Application
 
 Mantra
 -
-Business-Driven Ontologies for Ontology-Driven Businesses. 
+> Business-Driven Ontologies for Ontology-Driven Businesses. 
 
 Motivation
 -
