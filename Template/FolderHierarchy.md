@@ -18,20 +18,20 @@ Organization
         <tr>
             <td>0</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Use Cases</a></td>
-            <td></td>
+            <td>*Real Life* cases that should be addressed & solved by this application</td>
             <td></td>
         </tr>
         <tr>
         <tr>
             <td>1</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Semantic</a></td>
-            <td></td>
-            <td></td>
+            <td>Concepts, relations, semantic concept model (SCM) related to underlaying Knoledge Domain</td>
+            <td>Conceptionary which uses Onto-Terminological approach. SCM expressed regardless ontological paradigms</td>
         </tr>
         <tr>
             <td>2</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Rules</a></td>
-            <td></td>
+            <td>Business rules which control the semantic concept model</td>
             <td></td>
         </tr>
         <tr>
