@@ -44,7 +44,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Used By</th>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> (#DistributedWeb & #SemanticTechnologies)</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
