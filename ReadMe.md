@@ -19,7 +19,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Description</th>
-            <td>Set of best practices for designing a Business Applications</td>
+            <td>Set of best practices for designing Business Applications</td>
             <td>N/A</td>
         </tr>
         <tr>
