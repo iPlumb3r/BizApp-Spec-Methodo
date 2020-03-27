@@ -50,7 +50,7 @@ Organization
             <td>5</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Guide Lines</a></td>
             <td>Description of the "high level" principles that should guide the design of the application.</td>
-            <td></td>
+            <td>e.g. Best pratices to follow (or to be - strongly - inspired by) for implementation purposes.</td>
         </tr>
         <tr>
             <td>6</td>
