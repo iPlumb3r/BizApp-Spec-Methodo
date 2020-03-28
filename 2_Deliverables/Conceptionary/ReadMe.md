@@ -68,7 +68,7 @@ Building a __Conceptionary__ consist in defining for each __Concept__ a kind of 
 
 How this help for building an Ontology ?
 -
-Less formal than an __Ontology__, the __Conceptionary__ let appears future formal relations - in a textual flavor - inside the description section.
+Less formal than an __Ontology__, a __Conceptionary__ let appears future formal relations - in a textual flavor - inside the description section.
 
 An example
 -
