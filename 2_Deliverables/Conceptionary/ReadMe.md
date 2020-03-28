@@ -73,8 +73,8 @@ Less formal than an __Ontology__, a __Conceptionary__ let appears future formal 
 An example
 -
 An exemple of a __Conceptionary__ could be see here :
-* <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Root</a> of the Conceptionary   
-* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the Concept identified as "@Agent"   
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Root</a> of the __Conceptionary__   
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the __Concept__ identified as "@Agent"   
 => You can see here than the "Description" of the __Concept__ referes to others __Concept(s)__ of the __Conceptionary__ ...   
 ... and you can navigate through those links in order to see the "Description" of the targeted __Concept(s)__ !
 
