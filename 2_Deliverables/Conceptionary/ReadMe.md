@@ -1,9 +1,23 @@
 Conceptionary
 ==
 
-What is it ?
+What is a Conceptionary ?
 -
-A __conceptionary__ is a "flat" list of the __concepts__ related to a given __knowledge domain__ with some useful associated informations :
+A __Conceptionary__ is a "flat" list of relevant __Concepts__ for a given __Knowledge Domain__ characterized by useful associated informations.
+
+> A __Conceptionary__ is like _"a stone in the middle of the river"_ in the process of building an __Ontology__.   
+
+__Important note__ :   
+Each entry of the conceptionary is NOT a #Term ...   
+... this is a #Concept   
+> A __Conceptionary__ is somewhere a kind of "inverse __Dictionary__"
+
+Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
+
+
+How to build a Conceptionary ?
+-
+Building a __Conceptionary__ consist in defining for each __Concept__ a kind of "ID Card" with the following fields :
 
 <table>
     <thead>
@@ -52,16 +66,8 @@ A __conceptionary__ is a "flat" list of the __concepts__ related to a given __kn
     </tbody>
 </table>
 
-__Important note__ :   
-Each entry of the conceptionary is NOT a #Term ...   
-... this is a #Concept   
-> A Conceptionary is somewhere a "inverse Dictionary"
-
-Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
-
-What's the point ?
+How this help for building an Ontology ?
 -
-A __Conceptionary__ is like _"a stone in the middle of the river"_ in the process of building an __Ontology__.   
 Less formal than an __Ontology__, the __Conceptionary__ let appears future formal relations - in a textual flavor - inside the description section.
 
 An example
