@@ -3,7 +3,7 @@ Conceptionary
 
 What is a Conceptionary ?
 -
-A __Conceptionary__ is a "flat" list of relevant __Concepts__ for a given __Knowledge Domain__ characterized by useful associated informations.
+A __Conceptionary__ is a "flat" list of __Concepts__ relevant for a given __Knowledge Domain__ characterized by useful associated informations.
 
 > A __Conceptionary__ is like _"a stone in the middle of the river"_ in the process of building an __Ontology__.   
 
