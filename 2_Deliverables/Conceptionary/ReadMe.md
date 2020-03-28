@@ -31,7 +31,7 @@ Building a __Conceptionary__ consist in defining for each __Concept__ a kind of 
         <tr>
             <td>Concept ID</td>
             <td>1-1</td>
-            <td>Could be a number, an aleatory alpha-numeric chain or an EnglishCamelCase "word"</td>
+            <td>Could be a number, a ramdom alpha-numeric chain or an EnglishCamelCase "word"</td>
         </tr>
           <tr>
             <td>============</td>
