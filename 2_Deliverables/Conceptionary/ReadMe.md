@@ -87,7 +87,7 @@ Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manage
  (You need to create 1 Roam Note for each Concept => Do NOT describe several Concepts in the same Roam Note)
 
 Template/Example : 
-* Roam Note 1 :<a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Template</a>   
+* Roam Note 1 : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">Template</a>   
 * Roam Note 2 : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/S5u8LXV2A">Example</a>  
 
 > By creating new Roam Note, with the name of already used Concept, Roam will automatically propose to make a link ...
