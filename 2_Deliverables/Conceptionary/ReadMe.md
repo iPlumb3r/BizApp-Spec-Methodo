@@ -72,19 +72,19 @@ Less formal than an __Ontology__, the __Conceptionary__ let appears future forma
 
 An example
 -
-An exemple of a Conceptionary could be see here :
+An exemple of a __Conceptionary__ could be see here :
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Root</a> of the Conceptionary   
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">Info Card</a> for the Concept identified as "@Agent"   
-=> You can see here than the "Description" of the Concept referes to others Concept(s) of the Conceptionary ...   
-... and you can navigate through those links in order to see the "Description" of the targeted Concept(s) !
+=> You can see here than the "Description" of the __Concept__ referes to others __Concept(s)__ of the __Conceptionary__ ...   
+... and you can navigate through those links in order to see the "Description" of the targeted __Concept(s)__ !
 
-__Note__ : GitHub is OK for publich the final version of an already built Conceptionary, but not for building it !!!
+__Note__ : GitHub is OK for publich the final version of an already built __Conceptionary__, but not for building it !!!
 
 
 Which tool to use ?
 -
 
-Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manager, ...) are not very suitable for building a conceptionary, just because main requirements are : 
+Traditional "Office" applications (such as Word, Excel, Power Point, Mind Manager, ...) are not very suitable for building a __Conceptionary__, just because main requirements are : 
    - Concepts can be linked easily
    - Allow Collaboration
    
