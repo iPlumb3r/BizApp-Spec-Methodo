@@ -28,7 +28,7 @@ __Outil suggéré__ : <a href="https://protege.stanford.edu/download/protege/3.5
 
 Mixer les 3 modes
  -
- La méthodologie précédentes prends en compte les possibilités des outils disponibles ...
+ La méthodologie précédente prends en compte les possibilités des outils disponibles ...   
  ... mais il est toutefois possible de travailler en mixant les 3 modes "à la fois"   
 __Outil suggéré__ : <a href="http://keeplink.com/">KeepLink</a>
 > C’est le mode "mixte"
