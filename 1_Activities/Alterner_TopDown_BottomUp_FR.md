@@ -13,7 +13,7 @@ __Outil suggéré__ : <a href="https://www.yworks.com/products/yed">yEd</a>
 Un travail "au top"
 -
 __Quoi faire__ : Un "<a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/master/2_Deliverables/Conceptionary">Conceptionary</a>"    
-__Comment le faire__ : Extraire des odèles d’instances les sémantiques qui connectent les concepts pour les "semi-formaliser textuellement"  dans la description de chaque concept du Conceptionary les relations que tu à découvert à l’étape précédentes   
+__Comment le faire__ : Extraire des modèles d’instances les sémantiques qui connectent les concepts pour les "semi-formaliser textuellement"  dans la description de chaque concept du Conceptionary les relations découverts à l’étape précédente   
 __Outil suggéré__ : <a href="https://roamresearch.com/">Roam</a>
 Avec Roam, ces relations textuelles  apparaitrons ainsi dans le graphe Roam en connectant des nodes
 (Ce graphe joue ainsi le rôle de « proto-ontologies »)
