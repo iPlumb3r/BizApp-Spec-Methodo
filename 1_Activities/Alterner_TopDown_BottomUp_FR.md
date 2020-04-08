@@ -22,7 +22,7 @@ Avec Roam, ces relations textuelles  apparaitrons ainsi dans le graphe Roam en c
  Un travail « top-down » 
  -
 __Quoi faire__ : Une ontologie   
-__Comment le faire__  : Formaliser les concepts par des Classe et les relations semantiques par des paires d'object properties inverses l'une de l'autre. L'instaciation permet de valider les relations du modèle en s’attaquant à de nouveau cas d’usage du domaine de connaissances   
+__Comment le faire__  : Formaliser les concepts par des Classes et les relations semantiques par des paires d'object properties inverses l'une de l'autre. L'instaciation permet de valider les relations du modèle en s’attaquant à de nouveau cas d’usage du domaine de connaissances   
 __Outil suggéré__ : <a href="https://protege.stanford.edu/download/protege/3.5/installanywhere/Web_Installers/">Protégé 3.5</a>
 > C’est le mode "model driven"
 
