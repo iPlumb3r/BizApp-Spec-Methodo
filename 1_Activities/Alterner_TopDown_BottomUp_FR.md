@@ -26,3 +26,10 @@ __Comment le faire__  : Formaliser les concepts par des Classes et les relations
 __Outil suggéré__ : <a href="https://protege.stanford.edu/download/protege/3.5/installanywhere/Web_Installers/">Protégé 3.5</a>
 > C’est le mode "model driven"
 
+Mixer les 3 modes
+ -
+ La méthodologie précédentes prends en compte les possibilités des outils disponibles ...
+ ... mais il est toutefois possible de travailler en mixant les 3 modes "à la fois"   
+__Outil suggéré__ : <a href="http://keeplink.com/">KeepLink</a>
+> C’est le mode "mixte"
+
