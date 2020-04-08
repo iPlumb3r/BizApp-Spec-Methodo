@@ -7,7 +7,7 @@ Un travail « bottom-up »
 -
 __Quoi faire__ : Des modèles d'instances   
 __Comment le faire__ : Identifier les individus du domaine de connaissances et de les connecter entre-eu avec des sémantiques pertinentes   
-> C’est le mode  model « discovery »)   
+> C’est le mode  model « discovery »   
 __Outil suggéré__ : <a href="https://www.yworks.com/products/yed">yEd</a>
 
 Un travail de « distillation » 
