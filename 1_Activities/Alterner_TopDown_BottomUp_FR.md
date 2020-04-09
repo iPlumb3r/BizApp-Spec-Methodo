@@ -7,7 +7,7 @@ Un travail « bottom-up »
 -
 __Quoi faire__ : Des modèles d'instances   
 __Comment le faire__ : Identifier les individus du domaine de connaissances et de les connecter entre-eu avec des sémantiques pertinentes   
-__Outil suggéré__ (desktop) : <a href="https://www.yworks.com/products/yed">yEd</a>
+__Outil suggéré__ (desktop) : <a href="https://www.yworks.com/products/yed">yEd</a>   
 __Outil suggéré__ (web) : <a href="https://stemic.app/">Stemic</a>
 > C’est le mode "model discovery"  
 
