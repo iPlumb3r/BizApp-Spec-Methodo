@@ -17,8 +17,8 @@ Les 2 articles ci-après permettent de mieux comprendre le principe d’une appr
  
  Généralités
  -
- L'objectif essentiel de cette méthodologie est de définir « __Le QUOI ?__ » (= Besoin Métier) de la __problématique__ que l’on cherche à résoudre …
-… de manière indépendante de « __Son COMMENT__ ? » (= Paradigme ontologique, technologie de raisonnement, langage informatique, …)
+ L'objectif essentiel de cette méthodologie est de définir « __Le QUOI ?__ » (= Besoin Métier) de la __problématique__ que l’on cherche à résoudre ...   
+... de manière indépendante de « __Son COMMENT__ ? » (= Paradigme ontologique, technologie de raisonnement, langage informatique, …)
 
 Pour ce faire, cette méthodologie définie : 
 * Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/0_Role/LisezMoi_FR.md">rôles</a> à impliquer
