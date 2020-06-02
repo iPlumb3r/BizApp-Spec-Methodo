@@ -55,7 +55,7 @@ Organization
         <tr>
             <td>6</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Ontologies</a></td>
-            <td>Expression of the semantic model of a concept according to the formalism of one (or more) ontological paradigm(s).</td>
+            <td>Expression of the semantic model according to the formalism of one (or more) ontological paradigm(s).</td>
             <td>e.g. OWL, Topics Maps, Grakn, KL, ...</td>
         </tr>
         <tr>
