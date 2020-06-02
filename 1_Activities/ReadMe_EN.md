@@ -17,7 +17,7 @@ The activities required for this methodology are the following ones :
             <td>A0</td>            
             <td>Define the application finality</td>
             <td>A business model only makes sense in terms of "what it's going to be used for.". Rq : All models are wrong , but some are useful (G. Box)</td>
-            <td>By listing the objectives to be achieved by the business model (=> Motivation Map)</td>
+            <td>By identifying the finalities to be achieved by the business model, the influencing factors and the resulting initiatives (=> Motivation map)</td>
         </tr>
         <tr>
             <td>A1</td>            
