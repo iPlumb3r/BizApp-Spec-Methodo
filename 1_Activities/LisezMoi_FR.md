@@ -17,7 +17,7 @@ Tableau :
         <tr>
             <td>Définir la finalité de l’application</td>
             <td>Un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”. Rq : All models are wrong , but some are useful (G. Box)</td>
-            <td>En listant les objectifs devant être atteints par le modèle métier (=> Carte des motivations</td>
+            <td>En listant les objectifs devant être atteints par le modèle métier (=> Carte des motivations)</td>
         </tr>
         <tr>
             <td>Définir le périmètre métier de l’application informatique</td>
