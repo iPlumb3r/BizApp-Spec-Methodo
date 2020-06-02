@@ -1,4 +1,4 @@
-Activities to be realizes
+Activities to be realized
 ==
 
 The activities required for this methodology are the following ones : 
