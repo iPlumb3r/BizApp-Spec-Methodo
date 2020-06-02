@@ -19,7 +19,7 @@ Tableau :
             <td>A0</td>
             <td>Définir la finalité de l’application</td>
             <td>Un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”. Rq : All models are wrong , but some are useful (G. Box)</td>
-            <td>En listant les objectifs devant être atteints par le modèle métier (=> Carte des motivations)</td>
+            <td>En identifiant les finalités devant être atteintes par le modèle métier, les facteurs influançants et les inititives qui en découlent (=> Carte des motivations)</td>
         </tr>
         <tr>
             <td>A1</td>
