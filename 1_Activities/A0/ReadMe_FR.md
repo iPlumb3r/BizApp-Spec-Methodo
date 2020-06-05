@@ -14,7 +14,8 @@ Le meileur conseil pour cette activité est sans doute incarné par l'adage qui 
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
 
 ## Livrable
-Il s'agit de construire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
+La __"carte des motivations__" est souvent un livrable nécessaire et suffisant pour cette activité ...     
+... Car elle est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet !
 
 Ces types d'éléments sont les suivants :
 * Les __finalités métiers__
