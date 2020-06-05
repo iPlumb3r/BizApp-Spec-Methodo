@@ -16,7 +16,7 @@ If we don't clearly define what it must be done, then when we try to develop the
 The best advice for this activity is probably the following: 
 > Define - as far as possible - the activities in terms of __end__ (and NOT in terms of __mean__ )
 
-[BizSpecFctSpec](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/BusinessSpecifciation_VS_FunctionalSpecification.png)
+![BizSpecFctSpec](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/BusinessSpecifciation_VS_FunctionalSpecification.png)
 
 The difficulty experienced by customers in "getting back to the business" during the expression of need is well illustrated by Henry Ford's famous phrase: 
 > If I had asked my customers what they needed, they would have said "a horse that moves faster" ;-)
@@ -38,4 +38,4 @@ Other related concepts: <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/mast
 
 ## Semantic Model
 The __Business Activities__ fall within the context of the following semantic model:    
-! [SemanticModel](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/BusinessProcess_2020-05-05.png)
+![SemanticModel](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/BusinessProcess_2020-05-05.png)
