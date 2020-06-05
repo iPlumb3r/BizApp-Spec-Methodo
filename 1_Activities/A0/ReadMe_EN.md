@@ -1,7 +1,7 @@
 # Activity "A0": Define the purpose of the application
 
 ## Goal
-It is a question of defining the purpose of the application, its "Why?", its raison d'être, ...   
+It is a question of defining the purpose of the application, its "Why?", its "raison d'être", ...   
 ... in other words to specify "to whom" and "what" it will be used for and for what benefit.
 
 ### Why do it ?
