@@ -7,11 +7,20 @@ Il s'agit de définir le périmètre que va "embrasser" l'application et par con
 ### Pourquoi le faire ?
 Si l'on ne défini pas clairement ce qu'il doit être fait, alors lorsqu'on va essayer de dévelloper l'application on va être confronté à la problématique de "trouver une solution" (le Comment ?) à "une situation" (le Quoi ?) qui n'a jamais - vraiement - été définie !
 
+### Comment le faire ?
+2 manières différentes mais complémentaire permettent de contribuer la définition du périmètre d'une application.
+La 1ere, basée sur la description de __cas d'usage__ concret est très pragmatique et permet dès le départ de commencer à se consituer une base de test (= recette).
+La 2nd, basée sur la définition d'activité métier 
+
 ## Mantra
 Le meileur conseil pour cette activité est sans doute le suivant : 
 > Définir - autant que possible - les activités en terme de __finalité__ (et NON de __moyen__)
 
-## Livrable
+## Livrable(s)
+### Cas d'usage :
+A compléter ...
+
+### Fiche d'activité métier / processus métier
 Il s'agit d'un ensemble de fiche d'__Activité Métier__ qui prisent globalement permettent de constituer une cartographie de "Qui réalise quelle activité dans quel but" (Autrement nommé __Processus Métier__)
  
 ## Notions Clefs
