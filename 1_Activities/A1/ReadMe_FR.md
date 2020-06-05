@@ -9,7 +9,7 @@ Si l'on ne défini pas clairement ce qu'il doit être fait, alors lorsqu'on va e
 
 ### Comment le faire ?
 2 manières différentes mais complémentaires permettent de contribuer à la définition du __périmètre__ d'une application.
-* La 1ere, basée sur la description de __cas d'usage__ concret est très pragmatique et permet dès le départ de commencer à se consituer une base de test (= poue la "recette").
+* La 1ere, basée sur la description de __cas d'usage__ concret est très pragmatique et permet dès le départ de commencer à se consituer une base de test (= pour la "recette").
 * La 2nd, basée sur la définition d'__activités métier__ (connectée entre-elles pour constituer un __processus métier__ global) est plus théorique (car au lieu de baser sur des éléments contrets, elle met en oeuvre des types d'éléments plus abstrait). 
 
 ## Mantra
