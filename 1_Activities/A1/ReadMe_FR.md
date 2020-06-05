@@ -31,9 +31,7 @@ Le concept central pour cette activité est la notion d'__Activité Métier__ qu
 * consommes 1 (ou plusieurs) __Objet(s) Métier(s)__
 * et produit  1 (ou plusieurs) __Objet(s) Métier(s)__
 
-L'ensemble de ces notions sont décrites dans les articles suivants : 
-* <a href="https://www.linkedin.com/pulse/7-r%C3%A8gles-dor-pour-d%C3%A9crire-des-processus-m%C3%A9tiers-bernard-chabot/">7 règles d'or pour décrire des Processus Métiers</a>
-* <a href="https://www.linkedin.com/pulse/7-id%C3%A9es-re%C3%A7ues-%C3%A0-propos-des-processus-m%C3%A9tiers-bernard-chabot/">7 idées reçues à propos des Processus Métiers ...</a>
+Les autres notions connexes : #BusinessProcess, #BusinessConcept, #BusinessSubject sont défini dans le Conceptionary de l'initiative pEAr4pEEr : https://github.com/iPlumb3r/pEAr4pEEr/tree/master/1_Semantic/Conceptionary
 
 ## Modèle Sémantique
 Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant :    
