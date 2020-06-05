@@ -17,7 +17,7 @@ En se posant le triple questionnement suivant :
 
 ![MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
 
-## Mantra : 
+## Mantra
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
 
