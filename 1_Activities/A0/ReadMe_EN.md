@@ -10,14 +10,14 @@ Because in order to specify a __computer application__, it is necessary to deter
 > For memo: "Essentially, all models are __wrong__ , but some are _useful_" - Geoges Box
 
 ### How do you do it?
-By asking ourselves the following triple question: 
+By asking ourselves the following triple question : 
 * "where" do we want to go ?
 * what are the potential difficulties on the "way" ?
 * what are we going to put in place to get to "destination" despite the pitfalls ?
 
 [MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
 
-## Mantra: 
+## Mantra
 The best advice for this activity is undoubtedly embodied in the saying:
 > "There is no favorable wind for the sailor who doesn't know where to go !"
 
@@ -25,7 +25,7 @@ The best advice for this activity is undoubtedly embodied in the saying:
 The __"motivation map"__ is often a necessary and sufficient deliverable for this activity ...     
 ... Because it is made up of 3 types of elements which, taken as a whole, give a good picture of the ins and outs of a project !
 
-These types of elements are as follows:
+These types of elements are as follows :
 * The __business finalities__
 * The __influential factors__
 * The __business initiatives__ 
