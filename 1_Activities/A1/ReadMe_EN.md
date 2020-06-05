@@ -1,4 +1,4 @@
-# Activity "A1": Define the scope of the application
+# Activity "A1" : Define the scope of the application
 
 ## Goal
 It is a question of defining the perimeter that the application will "embrace" and consequently the "surface" that it will cover, ...   
