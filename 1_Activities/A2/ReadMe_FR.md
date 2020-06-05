@@ -13,7 +13,7 @@ En recherchant systématiquement quel est le __Sujet Métier__ qui se trouve "de
 * Que documente-t-il ?
 * Que représente-t-il ?
 
-## Mantra : 
+## Mantra
 Le meileur conseil pour cette activité est sans doute le suivant : 
 > S'attacher à capturer les "vrais" __sujets__ du domaine de connaissances ...     
 ... et non les __objets__ qui les réprésentent !
