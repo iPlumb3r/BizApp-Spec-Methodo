@@ -20,7 +20,7 @@ Le meileur conseil pour cette activité est sans doute le suivant :
 
 ## Livrable(s)
 ### Cas d'usage :
-A compléter ...
+Il s'agit d'une description textuelle et/ou graphique représentant une situation emblématique de la problématique devant être supportée par l'application informatique.
 
 ### Fiche d'activité métier / processus métier
 Il s'agit d'un ensemble de fiche d'__Activité Métier__ qui prisent globalement permettent de constituer une cartographie de "Qui réalise quelle activité dans quel but" (Autrement nommé __Processus Métier__)
