@@ -5,7 +5,7 @@ Il s'agit de définir le périmètre que va "embrasser" l'application et par con
 ... autrement dit sont "Quoi ?" métier, ce qu'elle va faire (indépendement de la manière de le faire)
 
 ### Pourquoi le faire ?
-Si l'on ne défini pas clairement ce qu'il doit être fait, alors lorsqu'on va essayer de dévelloper l'application on va être confronté à la problématique de "trouver une solution" (le Comment ?) à "une situation" (le Quoi ?) qui n'a jamais été défini !
+Si l'on ne défini pas clairement ce qu'il doit être fait, alors lorsqu'on va essayer de dévelloper l'application on va être confronté à la problématique de "trouver une solution" (le Comment ?) à "une situation" (le Quoi ?) qui n'a jamais - vraiement - été définie !
 
 ## Mantra
 Le meileur conseil pour cette activité est sans doute le suivant : 
