@@ -1,4 +1,4 @@
-# Activity "A2" : Identify and define the business topics handled by the application
+# Activity "A2" : Identify and define the business subject handled by the application
 
 ## Goal
 It is a question of identifying and defining precisely the subjects which will have to be handled by the target application ...   
