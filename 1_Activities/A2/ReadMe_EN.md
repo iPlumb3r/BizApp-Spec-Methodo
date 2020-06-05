@@ -14,7 +14,7 @@ By systematically looking for the __Business Subject__ that is "behind" each __B
 * What does it represent?
 
 ## Mantra
-Perhaps the best advice for this activity is this: 
+Perhaps the best advice for this activity is this : 
 > Focus on capturing the "real" __subjects__ of the knowledge domain...     
 ... and not the __objects__ that represent them!
 
@@ -23,7 +23,7 @@ The __Conceptionary__ is not only the only deliverable for this activity, ...
 ... But it is also THE deliverable of this methodological approach because it constitutes a "pivot" of the approach!   
  
 ## Key Concepts
-The key concepts for this activity are summarized in the table below:
+The key concepts for this activity are summarized in the table below :
 
 <table>
     <thead>
@@ -74,6 +74,6 @@ The key concepts for this activity are summarized in the table below:
 
 ## Notes
 Each entry in the __Conceptionary__ is a Concept (NOT a Term).
-> In this sense we can say that a __Conceptionary__ is an inverted __Dictionary__!
+> In some sense we can say that a __Conceptionary__ is an inverted __Dictionary__!
 
 Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
