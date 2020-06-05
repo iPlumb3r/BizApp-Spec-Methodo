@@ -26,12 +26,12 @@ A compléter ...
 Il s'agit d'un ensemble de fiche d'__Activité Métier__ qui prisent globalement permettent de constituer une cartographie de "Qui réalise quelle activité dans quel but" (Autrement nommé __Processus Métier__)
  
 ## Notions Clefs
-Le concept central pour cette activité est la notion d'__Activité Métier__ qui  : 
-* est réalisé par 1 (ou plusieurs) __Rôle(s) Métier(s)__
-* consommes 1 (ou plusieurs) __Objet(s) Métier(s)__
+La notion centrale pour cette activité est la notion d'__Activité Métier__ (Cf <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessActivity.md">#BusinessActivity</a>) qui  : 
+* est réalisé par 1 (ou plusieurs) __Rôle(s) Métier(s)__ (Cf <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessRole.md">#BusinessRole</a>)
+* consommes 1 (ou plusieurs) __Objet(s) Métier(s)__ (Cf <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a>)
 * et produit  1 (ou plusieurs) __Objet(s) Métier(s)__
 
-Les autres notions connexes : #BusinessProcess, #BusinessConcept, #BusinessSubject sont défini dans le Conceptionary de l'initiative pEAr4pEEr : https://github.com/iPlumb3r/pEAr4pEEr/tree/master/1_Semantic/Conceptionary
+Les autres notions connexes : <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessProcess.md">#BusinessProcess</a>, <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a>, <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a> sont défini dans le Conceptionary de l'initiative pEAr4pEEr : https://github.com/iPlumb3r/pEAr4pEEr/tree/master/1_Semantic/Conceptionary
 
 ## Modèle Sémantique
 Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant :    
