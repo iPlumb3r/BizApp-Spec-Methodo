@@ -5,7 +5,10 @@ Il s'agit connecter les __Sujets Métiers__ prealablement définis dans le Conce
 ... autrement dit de spécifier le modèle sémantique des concepts métiers.
 
 ### Pourquoi le faire ?
-Car un __domaine de connaissance__ est autant représenté par les __Concepts__ qui le constituent que par les __Relations__ entre ces concepts.
+Car un __domaine de connaissance__ est autant représenté par les __Concepts Metiers__ (surtout les __Sujets Métiers__) qui le constituent que par les __Relations__ entre ces concepts.
+
+### Comment le faire ?
+En recherchant quel est le sens, la signification, la sémantique ... des liens qui relient les __Sujets Métiers__ entre-eux !
 
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
