@@ -1,7 +1,7 @@
 # Activity "A3": Linking business concepts 
 
 ## Goal
-It is a matter of connecting the __Business Topics__ previously defined in the Conceptionary (and possibly some __Key Business Objects__) in a global model ...   
+It is a matter of connecting the __Business Subjects__ previously defined in the Conceptionary (and possibly some __Key Business Objects__) in a global model ...   
 ... in other words to specify the semantic model of the business concepts.
 
 ### Why do it?
