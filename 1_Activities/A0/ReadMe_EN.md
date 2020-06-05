@@ -19,7 +19,7 @@ By asking ourselves the following triple question:
 
 ## Mantra: 
 The best advice for this activity is undoubtedly embodied in the saying:
-> "There's no such thing as a favourable wind for a sailor who doesn't know where he's going!"
+> "There is no favorable wind for the sailor who doesn't know where to go !"
 
 ## Deliverable
 The __"motivational card" is often a necessary and sufficient deliverable for this activity ...     
