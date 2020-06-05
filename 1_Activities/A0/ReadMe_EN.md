@@ -15,7 +15,7 @@ By asking ourselves the following triple question :
 * what are the potential difficulties on the "way" ?
 * what are we going to put in place to get to "destination" despite the pitfalls ?
 
-[MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
+![MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
 
 ## Mantra
 The best advice for this activity is undoubtedly embodied in the saying:
@@ -45,5 +45,5 @@ The __business initiatives__ are the principles of action that we will put in pl
 
 
 ## Semantic Model
-[SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap_SM.png)
+![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap_SM.png)
 
