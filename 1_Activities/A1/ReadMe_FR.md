@@ -18,7 +18,7 @@ Le meileur conseil pour cette activité est sans doute le suivant :
 
 ![BizSpecFctSpec](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/BusinessSpecifciation_VS_FunctionalSpecification.png)
 
-La difficulté éprouvé par les clients à "remonter vers le métier" lors de la phase d'expression du besoin est bien illustré par la célèbre phrase d'Henry Ford : 
+La difficulté éprouvée par les clients à "remonter vers le métier" lors de la phase d'expression du besoin est bien illustré par la célèbre phrase d'Henry Ford : 
 > Si j'avais demandé à mes clients de quoi il avait besoin, il m'aurait dit "d'un cheval qui avance plus vite" ;-)
 
 ## Livrable(s)
