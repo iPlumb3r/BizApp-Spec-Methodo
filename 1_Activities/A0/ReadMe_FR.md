@@ -15,6 +15,8 @@ En se posant le triple questionnement suivant :
 * quelles sont les difficultés potentielles sur le "chemin" ?
 * que va-t-on mettre place pour arriver à "destination" malgrès les embûches ?
 
+![MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
+
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
@@ -44,6 +46,3 @@ Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en 
 
 ## Modèle Sémantique
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap_SM.png)
-
-## Illustration "Analogique"
-![MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/MotivationMap.png)
