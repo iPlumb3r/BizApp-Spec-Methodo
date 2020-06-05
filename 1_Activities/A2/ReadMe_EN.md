@@ -1,4 +1,4 @@
-# Activity "A2": Identify and define the business topics handled by the application
+# Activity "A2" : Identify and define the business topics handled by the application
 
 ## Goal
 It is a question of identifying and defining precisely the subjects which will have to be handled by the target application ...   
@@ -13,7 +13,7 @@ By systematically looking for the __Business Subject__ that is "behind" each __B
 * What does it document ?
 * What does it represent?
 
-## Mantra: 
+## Mantra
 Perhaps the best advice for this activity is this: 
 > Focus on capturing the "real" __subjects__ of the knowledge domain...     
 ... and not the __objects__ that represent them!
