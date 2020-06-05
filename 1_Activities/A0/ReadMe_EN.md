@@ -1,4 +1,4 @@
-# Activity "A0": Define the purpose of the application
+# Activity "A0" : Define the purpose of the application
 
 ## Goal
 It is a question of defining the purpose of the application, its "Why?", its "raison d'être", ...   
