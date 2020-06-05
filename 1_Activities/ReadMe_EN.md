@@ -14,13 +14,13 @@ The activities required for this methodology are the following ones :
     </thead>
     <tbody>
         <tr>
-            <td>A0</td>            
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A0/ReadMe_EN.md">A0</a></td>            
             <td>Define the application finality</td>
             <td>A business model only makes sense in terms of "what it's going to be used for.". Rq : All models are wrong , but some are useful (G. Box)</td>
             <td>By identifying the finalities to be achieved by the business model, the influencing factors and the resulting initiatives (=> Motivation map)</td>
         </tr>
         <tr>
-            <td>A1</td>            
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A1/ReadMe_EN.md">A1</a></td>            
             <td>Define the business scope of the IT application</td>
             <td>If the business scope is not clearly defined, it will be impossible to effectively capture the business need and control iterative development cycles (risk of cost and time slippage).</td>
             <td>By identifying the business activities that will have to be supported by the IT application. (=> Map of “Who realises which activity ?”)</td>
