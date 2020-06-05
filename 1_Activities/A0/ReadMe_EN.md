@@ -28,7 +28,7 @@ The __"motivational card" is often a necessary and sufficient deliverable for th
 These types of elements are as follows:
 * The __business finalities__
 * The __influential factors__
-* The __trade initiatives__ 
+* The __business initiatives__ 
  
 ## Notions Keys
 
