@@ -1,4 +1,4 @@
-# Activity "A3": Linking business concepts 
+# Activity "A3" : Linking business concepts 
 
 ## Goal
 It is a matter of connecting the __Business Subjects__ previously defined in the Conceptionary (and possibly some __Key Business Objects__) in a global model ...   
