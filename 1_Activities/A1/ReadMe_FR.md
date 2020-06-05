@@ -37,7 +37,7 @@ L'ensemble de ces notions sont décrites dans les articles suivants :
 
 ## Modèle Sémantique
 Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant :    
-![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/BusinessActivity_SM.jpg)
+![SemanticModel](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/BusinessProcess_2020-05-05.png)
 
 
 
