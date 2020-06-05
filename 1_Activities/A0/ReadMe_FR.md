@@ -35,7 +35,7 @@ Ces types d'éléments sont les suivants :
 ### Finalités métiers :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
   
-### Facteurs influançants :   
+### Facteurs influançants (Cf <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>) :   
 Les __facteurs influançants__ représentent les caractéristiques de l'environnement contre lesquelles ont doit "lutter"
   
 ### Initiatives métiers :   
