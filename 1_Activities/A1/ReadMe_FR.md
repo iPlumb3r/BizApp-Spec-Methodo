@@ -14,7 +14,7 @@ Si l'on ne défini pas clairement ce qu'il doit être fait, alors lorsqu'on va e
 
 ## Mantra
 Le meileur conseil pour cette activité est sans doute le suivant : 
-> Définir - autant que possible - les activités en terme de __finalité__ (et NON de __moyen__)
+> Définir - autant que possible - les activités en terme de __finalité__ (et NON en terme de __moyen__)
 
 ![BizSpecFctSpec](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/_Images/BusinessSpecifciation_VS_FunctionalSpecification.png)
 
