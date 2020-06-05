@@ -22,8 +22,8 @@ The best advice for this activity is undoubtedly embodied in the saying:
 > "There is no favorable wind for the sailor who doesn't know where to go !"
 
 ## Deliverable
-The __"motivational card" is often a necessary and sufficient deliverable for this activity ...     
-... Because it is made up of 3 types of elements which, taken as a whole, give a good picture of the ins and outs of a project!
+The __"motivation map"__ is often a necessary and sufficient deliverable for this activity ...     
+... Because it is made up of 3 types of elements which, taken as a whole, give a good picture of the ins and outs of a project !
 
 These types of elements are as follows:
 * The __business finalities__
