@@ -5,7 +5,7 @@ It is a question of identifying and defining precisely the subjects which will h
 ... in other words, to determine "what is it about" the field of knowledge that it must support.
 
 ### Why do it?
-The 1st reason is related to the previous step which allows to identify the __Business Objects__ which are in fact only representations of the "real" __Business Topics__ which structure the __knowledge domain underlying the computer application.
+The 1st reason is related to the previous step which allows to identify the __Business Objects__ which are in fact only representations of the "real" __Business Subjects__ which structure the __knowledge domain underlying the computer application.
 The 2nd reason is related to the next step which requires to put in relation things which have been previously perfectly defined. Otherwise, linking things that don't make sense will not make sense either!
 
 ### How to do it ?
@@ -20,7 +20,7 @@ Perhaps the best advice for this activity is this :
 
 ## Deliverable
 The __Conceptionary__ is not only the only deliverable for this activity, ...   
-... But it is also THE deliverable of this methodological approach because it constitutes a "pivot" of the approach!   
+... But it is also THE deliverable of this methodological approach because it constitutes a "pivot" of the approach !   
  
 ## Key Concepts
 The key concepts for this activity are summarized in the table below :
