@@ -8,6 +8,10 @@ Il s'agit d'identifier et définir précisement les sujets qui devront être man
 La 1ere raison est relative à l'étape précédente qui permet surtout d'identifer les __Objets Métiers__ qui ne sont en fait que des représentations des "veritables" __Sujets Métiers__ qui structurent le __domaine de conaissances__ sous-jacent à l'application informatique.
 La 2nd raison est relative à l'étape suivante qu nécessite de mettre en relation des choses qui on été préalablement parfaitement définies. Sans quoi, le mise en relation de choses qui n'ont pas de sens n'aura pas de sens non plus !
 
+### Comment le faire ?
+En recherchant systématiquement quel est le __Sujet Métier__ qui se trouve "derrière" chaque __Objet Métier__ identifié lors de l'étape précédente via des questionnements de type :
+* Que documente-t-il ?
+* Que représente-t-il ?
 
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
@@ -15,7 +19,7 @@ Le meileur conseil pour cette activité est sans doute le suivant :
 ... et non les __objets__ qui les réprésentent !
 
 ## Livrable
-Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
+Le __Conceptionary__ est non seulement l'unique livrable de cette activité, ...   
 ... Mais c'est également LE livrable de cette approche méthodologique car il constitue un "pivot" de la démarche !   
  
 ## Notions Clefs
