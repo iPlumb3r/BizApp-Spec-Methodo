@@ -10,7 +10,7 @@ Car un __domaine de connaissance__ est autant représenté par les __Concepts Me
 ### Comment le faire ?
 En recherchant quel est le sens, la signification, la sémantique ... des liens qui relient les __Sujets Métiers__ entre-eux !
 
-## Mantra : 
+## Mantra
 Le meileur conseil pour cette activité est sans doute le suivant : 
 > "When the territory and the map disagree, believe the territory" - Swiss Army Manual 
 
