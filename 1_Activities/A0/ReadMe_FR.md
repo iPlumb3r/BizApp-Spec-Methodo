@@ -9,6 +9,12 @@ Par ce que pour spécifier une __application informatique__, il est nécessaire 
 ... et que fondementalement, un __modèle métier__ ne fait sens qu’en regard de _“ce à quoi il va servir”_ !
 > Pour memo : "Essentially, all models are __wrong__ , but some are _useful_" - Geoges Box
 
+### Comment le faire ?
+En se posant le triple questionnement suivant : 
+* "où" souhaite-t-on aller ?
+* quelles sont les difficultés potentielles sur le "chemin" ?
+* que va-t-on mettre place pour arriver à "destination" malgrès les embûches ?
+
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
