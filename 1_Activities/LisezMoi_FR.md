@@ -29,7 +29,7 @@ Tableau :
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A2/ReadMe_FR.md">A2</a></td>
-            <td>Identifier et définir les sujets métiers qui devront être manipulés par l’application</td>
+            <td>Déterminer les centres d'intérêt du domaine de connaissances</td>
             <td>Si les sujets métiers ne sont pas clairement identifiés et définis, il sera impossible de savoir “de quoi on parle exactement” et la qualité de l’application ne pourra pas être au rendez-vous !</td>
             <td>En construisant un glossaire métier dont chaque entrée incarne un sujet métier et comprend : 1 label préféré, 1 (ou plusieurs) label(s) alternatif(s), 1 définition, 1 commentaire et 3 à 5 exemples. (=> Glossaire onto-terminologique)</td>
         </tr>
