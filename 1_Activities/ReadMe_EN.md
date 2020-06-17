@@ -33,7 +33,7 @@ The activities required for this methodology are the following ones :
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A3/ReadMe_EN.md">A3</a></td>  
-            <td>Link business concepts via semantic relations</td>
+            <td>Specify Knowledge Domain architecture</td>
             <td>For to describe a business "territory", the relationships between business concepts are just as important (or even more important ;-) as the business concepts themselves.</td>
             <td>By building a semantic model of business concepts that can be represented by 1 or more graphs. (=> Semantic business concept model)</td>
         </tr>
