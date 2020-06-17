@@ -27,7 +27,7 @@ The activities required for this methodology are the following ones :
         </tr>          
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A2/ReadMe_EN.md">A2</a></td>  
-            <td>Identify and define the business concepts that will have to be manipulated by the IT application.</td>
+            <td>Determine the "Centers of Interest" of the Knowledge Domain.</td>
             <td>If the business concepts are not clearly identified and defined, it will be impossible to know "what exactly we are talking about" and the quality of the application will not be there. !</td>
             <td>By building a business glossary where each entry embodies a business concept and includes: 1 preferred label, 1 (or more) alternative label(s), 1 definition, 1 comment and 3 to 5 examples. (=> Onto-terminological glossary)</td>
         </tr>
