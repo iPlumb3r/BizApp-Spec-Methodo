@@ -1,4 +1,4 @@
-# Business Process
+# Business Process & Business Procedure
 
 This picture illustrate the BizApp-Spec-Methodology applied to itself
 
