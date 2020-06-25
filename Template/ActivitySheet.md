@@ -19,17 +19,19 @@ Les différents utilisateurs sus-cités doivent pouvoir référencer et caracté
   * C’est le cas des @hostedConsultant qui doivent déclarer leur @hostingCompany lors de leur inscription
   * C’est le cas des @finalCustomer qui peuvent déclarer des @serviceProvider ou des @hostingCompany dans le cadre des leur processus de référencement 
 
-## Trigger Event
+## Triggered by Event(s)
 Une @Organization doit / peut être déclarée : 
 * à l’inscription
 * au référencement
 
-## Manipulated Concept(s)
+## Required "input" Concept(s) => Business Subject(s)
 
-@Organization
 * @finalCustomer
 * @serviceProvider
 * @hostingCompany
+
+## Produced "output" Concept(s) => Business Subject(s)
+@Organization
 
 ## Associated Requirements
 Le système doit pouvoir alerter l’utilisateur sur des critères à définir que la société présente des risques
