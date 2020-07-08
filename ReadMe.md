@@ -70,7 +70,7 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
 Motivation
 -
 This methodology incarnate a common core of best practices for both :
-- A tradionnal developpement (where the __Ontology__ will -just - be an _input_ for a robust technical specification)
+- A traditionnal developpement (where the __Ontology__ will -just - be an _input_ for a robust technical specification)
 - An ontology-Driven developement (where the __Ontology__ will be a _direct consumable_ for dedicated software components)
 
 Mantra
