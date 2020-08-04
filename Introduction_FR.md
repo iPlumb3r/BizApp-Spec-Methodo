@@ -9,7 +9,7 @@ Cette __méthodologie__ incarne le tronc commun de __bonnes pratiques__ à mettr
 
 => En effet, dans les 2 cas, il est nécessaire de spécifier __“ce qui doit être fait, indépendamment de la manière de le faire”__ !
 
- Organisation
+ Contenu
  -
  L'objectif essentiel de cette méthodologie est de définir « __Le QUOI ?__ » (= Besoin Métier) de la __problématique__ que l’on cherche à résoudre ...   
 ... de manière indépendante de « __Son COMMENT__ ? » (= Paradigme ontologique, technologie de raisonnement, langage informatique, …)
