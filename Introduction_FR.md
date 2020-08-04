@@ -21,6 +21,6 @@ Les 2 articles ci-après permettent de mieux comprendre le principe d’une appr
 ... de manière indépendante de « __Son COMMENT__ ? » (= Paradigme ontologique, technologie de raisonnement, langage informatique, …)
 
 Pour ce faire, cette méthodologie définie : 
-* Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/0_Role/LisezMoi_FR.md">rôles</a> à impliquer
+* Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/0_Roles/LisezMoi_FR.md">rôles</a> à impliquer
 * Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activity/LisezMoi_FR.md">activités</a> à réaliser
 * Les <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverable/LisezMoi_FR.md">livrables</a> à produire (A compléter)
