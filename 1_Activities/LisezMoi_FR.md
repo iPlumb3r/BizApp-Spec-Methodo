@@ -36,7 +36,7 @@ Tableau :
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A3/ReadMe_FR.md">A3</a></td>
             <td>Spécifier l'architecture du domaine de connaissances.</td>
-            <td>Car pour décrire un “territoire” métier, les relations entre concepts métiers sont tout aussi importantes (voire plus importantes ;-) que les concepts métiers eux-mêmes</td>
+            <td>Car pour décrire un “territoire” métier, les relations entre concepts métiers sont tout aussi importantes (voire plus importantes !) que les concepts métiers eux-mêmes</td>
             <td>En mettant en relation les concepts métiers via des relations sémantiques (c-à-d “porteuse de sens”, ce qui revient à constuire un modèle sémantique des concepts métiers pouvant être représenté par 1 ou plusieurs graphes. (=> Modèle sémantique des concepts métiers)</td>
         </tr>
         <tr>
